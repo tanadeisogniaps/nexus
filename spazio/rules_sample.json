@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Azioni in Combattimento",
+        "text": "In combattimento puoi effettuare una delle seguenti azioni: Attaccare, Lanciare un Incantesimo, Scattare (raddoppia movimento), Disimpegnarsi (no attacchi opportunità), Schivare (svantaggio ai nemici), Aiutare."
+    },
+    {
+        "title": "Attacco di Opportunità",
+        "text": "Puoi effettuare un attacco di opportunità quando una creatura ostile che puoi vedere esce dalla tua portata usando il suo movimento."
+    },
+    {
+        "title": "Condizione: Prono",
+        "text": "Un creatura prona ha svantaggio ai tiri per colpire. Un tiro per colpire contro la creatura ha vantaggio se l'attaccante è entro 1,5m, altrimenti ha svantaggio."
+    },
+    {
+        "title": "Condizione: Invisibile",
+        "text": "Impossibile da vedere senza mezzi magici. Attacchi contro di essa hanno Svantaggio, i suoi attacchi hanno Vantaggio."
+    },
+    {
+        "title": "Copertura",
+        "text": "Mezza copertura: +2 CA e TS Destrezza. Tre quarti: +5 CA e TS Destrezza. Totale: non può essere bersagliato direttamente."
+    },
+    {
+        "title": "Riposo Breve",
+        "text": "Periodo di inattività di almeno 1 ora. Puoi spendere Dadi Vita per recuperare PF."
+    },
+    {
+        "title": "Riposo Lungo",
+        "text": "Periodo di inattività di almeno 8 ore. Recuperi tutti i PF e metà dei Dadi Vita massimi."
+    }
+]
